@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
       title: 'Great Places',
       theme: ThemeData(
         primarySwatch: Colors.indigo,
-        accentColor: Colors.amber,
+        primaryColor: Colors.amber,
       ),
       home: ...,
     );
